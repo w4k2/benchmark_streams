@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 7 attributes
 2 classes
 """
-length = 1000000
+length = 100000
 path = "datasets/%s"
 generators = {
     "s_hyp_r1": "generators.HyperplaneGenerator -a 7 -i 1 -n 5",
